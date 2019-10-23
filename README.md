@@ -1,2 +1,2 @@
 # README for travis-lab
-[![Build status](https://travis-ci.org/USERNAME/travislab.svg?master)](https://travis-ci.org/USERNAME) 
+[![Build status](https://travis-ci.org/mmschneider15/travislab.svg?master)](https://travis-ci.org/mmschneider15) 
